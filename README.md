@@ -277,10 +277,9 @@ Save this in `src/assets/workflow-example.json` as a starting example:
 <img width="559" height="284" alt="Screenshot 2025-12-11 000609" src="https://github.com/user-attachments/assets/b6b81a52-e736-49d1-a97b-04595793a06f" />
 
 
-```
 
 
-# Conclusion
+### Conclusion
 
 The HR Workflow Designer enables users to visually build and configure HR process flows with an easy drag-and-drop interface. By supporting multiple node types—Start, Task, Approval, Automated Step, and End—the tool simplifies how HR operations can be modeled and reviewed.
 The Export/Import system allows workflows to be saved, shared, and reloaded, while the Simulation feature provides a quick way to validate the flow logic.
