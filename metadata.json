@@ -1,0 +1,5 @@
+{
+  "name": "HR Workflow Designer",
+  "description": "A visual drag-and-drop workflow builder for HR processes with simulation capabilities.",
+  "requestFramePermissions": []
+}
