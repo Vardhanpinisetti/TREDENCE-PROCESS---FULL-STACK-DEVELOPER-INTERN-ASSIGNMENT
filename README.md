@@ -280,6 +280,7 @@ Save this in `src/assets/workflow-example.json` as a starting example:
 
 <img width="1919" height="1017" alt="Screenshot 2025-12-11 001901" src="https://github.com/user-attachments/assets/89edbe43-2434-4717-960c-1da93ab86de5" />
 
+
 ```
 
 
