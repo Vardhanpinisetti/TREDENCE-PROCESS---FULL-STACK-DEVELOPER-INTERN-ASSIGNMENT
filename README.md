@@ -276,10 +276,6 @@ Save this in `src/assets/workflow-example.json` as a starting example:
 
 <img width="559" height="284" alt="Screenshot 2025-12-11 000609" src="https://github.com/user-attachments/assets/b6b81a52-e736-49d1-a97b-04595793a06f" />
 
-```
-
-<img width="1919" height="1017" alt="Screenshot 2025-12-11 001901" src="https://github.com/user-attachments/assets/89edbe43-2434-4717-960c-1da93ab86de5" />
-
 
 ```
 
