@@ -262,3 +262,34 @@ Save this in `src/assets/workflow-example.json` as a starting example:
 }
 
 
+<img width="1919" height="1018" alt="Screenshot 2025-12-10 235527" src="https://github.com/user-attachments/assets/74fd3e33-2170-4730-9206-d70b9f4dcb89" />
+
+```
+
+<img width="1919" height="1013" alt="Screenshot 2025-12-10 235652" src="https://github.com/user-attachments/assets/d8852ed7-560c-4d24-82b4-3ae777d51078" />
+
+```
+
+<img width="1919" height="1015" alt="Screenshot 2025-12-11 000407" src="https://github.com/user-attachments/assets/b7abb00a-a2c5-4f0b-bc5f-c0d2e465b12a" />
+
+```
+
+<img width="559" height="284" alt="Screenshot 2025-12-11 000609" src="https://github.com/user-attachments/assets/b6b81a52-e736-49d1-a97b-04595793a06f" />
+
+```
+
+<img width="1919" height="1017" alt="Screenshot 2025-12-11 001901" src="https://github.com/user-attachments/assets/89edbe43-2434-4717-960c-1da93ab86de5" />
+
+```
+
+
+### Conclusion
+
+The HR Workflow Designer enables users to visually build and configure HR process flows with an easy drag-and-drop interface. By supporting multiple node types—Start, Task, Approval, Automated Step, and End—the tool simplifies how HR operations can be modeled and reviewed.
+The Export/Import system allows workflows to be saved, shared, and reloaded, while the Simulation feature provides a quick way to validate the flow logic.
+
+This assignment demonstrates a complete front-end solution using React, TypeScript, Vite, and React Flow, integrating UI components, state management, JSON serialization, and workflow visualization. The project is production-ready, extendable, and suitable for real-world HR process automation use cases.
+
+
+
+
